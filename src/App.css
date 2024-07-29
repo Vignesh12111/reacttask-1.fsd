@@ -1,0 +1,19 @@
+.container {
+  margin-top: 100px;
+  background-color: blue;
+}
+.card {
+  margin-top: 30px;
+  margin-left: 54px;
+  width: 300px;
+}
+.card-header {
+  text-align: center;
+  color: gray;
+}
+.card-title {
+  text-align: center;
+}
+.btn {
+  border-radius: 50px;
+}
